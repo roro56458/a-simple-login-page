@@ -6,7 +6,7 @@ Ceci est un code public que vous pouvez utiliser sans problème pour un projet p
 
 Ce code est bien évidemment en cours de développement, il peut donc comporter des bugs. Merci.
 
-P.S. : J'ai utilisé Wamp pour les tests et MySQL pour la base de données.
+P.S : J'ai utilisé Wamp pour les tests et MySQL pour la base de données.
 
 ⚠️ Le code est encore en version bêta. ⚠️
 
@@ -18,6 +18,6 @@ This is public code that you can use without any issues for a personal project (
 
 This code is, of course, in active development, so it may contain bugs. Thank you.
 
-P.S.: I used Wamp for testing and MySQL for the database.
+P.S : I used Wamp for testing and MySQL for the database.
 
 ⚠️ The code is still in beta version. ⚠️
