@@ -1,23 +1,23 @@
-'README'
+Version Français 
 
-version Francais :
+⚠️ Le code est encore en version bêta. ⚠️
 
-⚠️ le code est encore en béta ⚠️
+Ceci est un code public que vous pouvez utiliser sans problème pour un projet personnel (en local) ou des tests. Cependant, si vous envisagez de l'utiliser pour un site accessible au public, merci de me demander l'autorisation au préalable.
 
-ceci est un code publique vous pouvez l'utiliser sans probleme pour un projet perso (local) ou test mais si cela devient pour un site mis en ligne au public merci de me demandé avec de l'utiliser
+Ce code est bien évidemment en cours de développement, il peut donc comporter des bugs. Merci.
 
-Se code est bien evidamment en cours de développement donc il peut comporté de beug. 
-Merci
+P.S. : J'ai utilisé Wamp pour les tests et MySQL pour la base de données.
 
-⚠️ le code est encore en béta ⚠️
+⚠️ Le code est encore en version bêta. ⚠️
 
-English version : 
+English version :
 
-⚠️ the code is still in beta ⚠️
+⚠️ The code is still in beta version. ⚠️
 
-this is a public code you can use it without problem for a personal (local) or test project but if it becomes for a site put online to the public please ask me to use it
+This is public code that you can use without any issues for a personal project (locally) or for testing purposes. However, if you plan to use it for a publicly accessible website, please ask for permission beforehand.
 
-This code is obviously under development so it may contain bugs.
-Thank
+This code is, of course, in active development, so it may contain bugs. Thank you.
 
-⚠️ the code is still in beta ⚠️
+P.S.: I used Wamp for testing and MySQL for the database.
+
+⚠️ The code is still in beta version. ⚠️
