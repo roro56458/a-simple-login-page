@@ -2,7 +2,7 @@ Version Français
 
 ⚠️ Le code est encore en version alpha. ⚠️
 
-Ceci est un code public que vous pouvez utiliser sans problème pour un projet personnel (en local) ou des tests. Cependant, si vous envisagez de l'utiliser pour un site accessible au public, merci de me demander l'autorisation au préalable.
+Ceci est un code public que vous pouvez utiliser sans problème pour un projet personnel (en local) ou des tests. Cependant, si vous envisagez de l'utiliser pour un site accessible au public, merci de me demander l'autorisation au préalable (roro56 sur discord).
 
 Ce code est bien évidemment en cours de développement, il peut donc comporter des bugs. Merci.
 
@@ -14,7 +14,7 @@ English version :
 
 ⚠️ The code is still in alpha version. ⚠️
 
-This is public code that you can use without any issues for a personal project (locally) or for testing purposes. However, if you plan to use it for a publicly accessible website, please ask for permission beforehand.
+This is public code that you can use without any issues for a personal project (locally) or for testing purposes. However, if you plan to use it for a publicly accessible website, please ask for permission beforehand (roro56 on discord).
 
 This code is, of course, in active development, so it may contain bugs. Thank you.
 
